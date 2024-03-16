@@ -11,18 +11,28 @@ Key Areas of Investigation:
 
 Existence and Consistency of Clutch Performance
 Our primary goal is to determine if certain MLB players consistently outperform their usual metrics in clutch situations across multiple seasons. We aim to identify if these clutch performances can be statistically supported or if they are merely a random distribution of success. 
+
+
 Measurement of Clutch Performance
 The study will measure clutch performance in two distinct ways
+
 Differential Approach: The difference between a player’s performance in clutch situations and their average performance
+
 Win Probability Summation: The cumulative change in win probability for every at-bat in a clutch setting
+
+
 Criteria for High Pressure Situations
 Inning Threshold
 We will narrow our focus to only performances in the 8th inning or later. By creating this parameter, we assume that the final innings of a game have a higher impact on the outcome, making the player's performance during this time more important.
+
 Score Differential
 The study will also only consider the moment where the score difference is two or less as key clutch situations. This criteria will help pinpoint the exact moments where a player’s performance has a heightened chance to alter the result of the game.
+
+
 Strategic Value of Clutch Hitters
 Beyond identifying the existence and consistency of clutch hitters, the project seeks to quantify their strategic value to an MLB team. The project aims to explore how crucial clutch hitters are to a team’s success and overarching strategy, potentially influencing managerial decisions, player selection, and game day tactics. 
 The project will also explore the influence of team salaries on the total clutch rating, investigating whether financial investment in clutch players correlates to wins. 
+
 Research Questions:
 Can statistical evidence support the existence of consistent clutch performance among players across seasons?
 
